@@ -4,9 +4,9 @@
 document.querySelector("main#main").remove()
 
 
-/*document.createElement.header = "victory"
+const newHeader = document.createElement("h1")
 
- document.body.appendChild(h1) */
+newHeader.id = "victory"
 
 /* Create your new element here and assign it to newHeader */
 
