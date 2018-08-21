@@ -8,7 +8,7 @@ const newHeader = document.createElement("h1");
 
 newHeader.id = "victory";
 
-newHeader.innerText = "Jason is champion";
+newHeader.innerText = "Jason is the champion";
 
 /* Create your new element here and assign it to newHeader */
 
