@@ -8,6 +8,8 @@ const newHeader = document.createElement("h1")
 
 newHeader.id = "victory"
 
+newHeader
+
 /* Create your new element here and assign it to newHeader */
 
 
